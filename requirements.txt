@@ -1,0 +1,11 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+PyQt6>=6.5.0
+mss>=9.0.0
+vgamepad>=0.1.0
+keyboard>=0.13.5
+ultralytics>=8.0.0
+onnxruntime>=1.15.0
+filterpy>=1.4.5
+dxcam>=0.0.5
+pywin32>=306
